@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/prefix">
+        <file>notepad_icons/save_as.png</file>
+        <file>notepad_icons/save.png</file>
+        <file>notepad_icons/print.png</file>
+        <file>notepad_icons/pencil.png</file>
+        <file>notepad_icons/paste.png</file>
+        <file>notepad_icons/new.png</file>
+        <file>notepad_icons/info.png</file>
+        <file>notepad_icons/font.png</file>
+        <file>notepad_icons/exit.png</file>
+        <file>notepad_icons/edit_undo.png</file>
+        <file>notepad_icons/edit_redo.png</file>
+        <file>notepad_icons/cut.png</file>
+        <file>notepad_icons/create.png</file>
+        <file>notepad_icons/copy.png</file>
+        <file>notepad_icons/open.png</file>
+    </qresource>
+</RCC>
